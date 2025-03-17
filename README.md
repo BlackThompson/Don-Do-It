@@ -93,15 +93,7 @@ card_generator/
 └── README.md
 ```
 
-## 📄 许可证 License
-
-[添加许可证信息 Add license information]
-
-## 🤝 贡献指南 Contributing
-
-欢迎提交 Issue 和 Pull Request 来帮助改进这个项目。
-Issues and Pull Requests are welcome to help improve this project.
 
 ---
 
-Made with ❤️ by [Your Name/Organization] 
+Made with ❤️ by Black
